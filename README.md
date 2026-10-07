@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Web Developer specializing in JavaScript and TypeScript, with a focus on building modern web applications using React and Next.js. At 22 years old, I'm known for being focused, curious, and committed—always seeking continuous learning. I thrive on taking on challenges, finding creative solutions, and actively contributing to problem-solving in every project I work on.
+I'm a passionate Web Developer specializing in JavaScript and TypeScript, with a focus on building modern web applications using React and Next.js. At 23 years old, I'm known for being focused, curious, and committed—always seeking continuous learning. I thrive on taking on challenges, finding creative solutions, and actively contributing to problem-solving in every project I work on.
 
 - 🚀 Always learning something new
 - 💡 Love tackling challenges and building solutions
@@ -14,6 +14,7 @@ I'm a passionate Web Developer specializing in JavaScript and TypeScript, with a
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
